@@ -6,5 +6,4 @@
 
 # *Блок схема алгоритма:*
 
-![Scheme](FinalTestScheme.jpg)
 
